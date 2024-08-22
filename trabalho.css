@@ -1,0 +1,33 @@
+header{
+    background-color: rgb(255, 8, 8);
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-style: italic;
+}
+
+footer{
+    background-color: rgb(255, 0, 0);
+    color: brown;
+    font-weight: bold;
+    flex-direction: column;
+}
+
+article{
+    color: black;
+    height: 100xp;
+    border-radius: 50px;
+}
+
+img{
+    width: 50vw;
+    height: 100vh;
+}
+.container{
+    display: flex;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+}
